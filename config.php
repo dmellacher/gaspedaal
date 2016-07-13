@@ -3,7 +3,7 @@
   // Database access definition
   $dbname     = "u573184964_gp"; 
   $dbserver   = "localhost"; 
-  $dbuser     = "u573184964_gp"; 
+  $dbuser     = "u573184964"; 
   $dbpass     = "gaspedaal"; 
   
   // Define table prefix
@@ -62,27 +62,7 @@
   // View e-mail addresses as images
   $mail_as_image = false;
 
-  // List of excluded sites in "Homepage guessing"
-  $free_mailers = array( "a3.epfl.ch"
-                       , "acm.org"
-                       , "aol.com"
-                       , "bigfoot.com"
-                       , "bluewin.ch"
-                       , "bluemail.ch"
-                       , "freesurf.ch"
-                       , "gmail.com"
-                       , "gmx."
-                       , "hotmail.com"
-                       , "ieee.org"
-                       , "intergga.ch"
-                       , "msn."
-                       , "pobox.com"
-                       , "swissonline.ch"
-                       , "spectraweb.ch"
-                       , "t-online.de"
-                       , "web.de"
-                       , "yahoo."
-                      );
+ 
 
   // Setup for "Country guessing" (Beta: Switzerland, US, Belgium)
   $map_guess  = true;
