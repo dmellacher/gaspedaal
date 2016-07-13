@@ -1,10 +1,10 @@
 <?php
 
   // Database access definition
-  $dbname     = "your_database"; 
+  $dbname     = "u573184964_gp"; 
   $dbserver   = "localhost"; 
-  $dbuser     = "username"; 
-  $dbpass     = "password"; 
+  $dbuser     = "u573184964_gp"; 
+  $dbpass     = "gaspedaal"; 
   
   // Define table prefix
   $table_prefix = "";
