@@ -1,5 +1,4 @@
-# gaspedaal
-Assignment
+# Assignment
 
 Develop an application for registering phone notes.
 
